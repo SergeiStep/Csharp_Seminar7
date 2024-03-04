@@ -1,0 +1,14 @@
+C:\Users\Сергей\Documents\программирование\учеба\003 CSharp\HT-7\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Documents\программирование\учеба\003 CSharp\HT-7\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+C:\Users\Сергей\Documents\программирование\учеба\003 CSharp\HT-7\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+C:\Users\Сергей\Documents\программирование\учеба\003 CSharp\HT-7\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Documents\программирование\учеба\003 CSharp\HT-7\Task1\bin\Debug\net8.0\Task1.exe
+C:\Users\Сергей\Documents\программирование\учеба\003 CSharp\HT-7\Task1\bin\Debug\net8.0\Task1.deps.json
+C:\Users\Сергей\Documents\программирование\учеба\003 CSharp\HT-7\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json
+C:\Users\Сергей\Documents\программирование\учеба\003 CSharp\HT-7\Task1\bin\Debug\net8.0\Task1.dll
+C:\Users\Сергей\Documents\программирование\учеба\003 CSharp\HT-7\Task1\bin\Debug\net8.0\Task1.pdb
+C:\Users\Сергей\Documents\программирование\учеба\003 CSharp\HT-7\Task1\obj\Debug\net8.0\Task1.dll
+C:\Users\Сергей\Documents\программирование\учеба\003 CSharp\HT-7\Task1\obj\Debug\net8.0\refint\Task1.dll
+C:\Users\Сергей\Documents\программирование\учеба\003 CSharp\HT-7\Task1\obj\Debug\net8.0\Task1.pdb
+C:\Users\Сергей\Documents\программирование\учеба\003 CSharp\HT-7\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+C:\Users\Сергей\Documents\программирование\учеба\003 CSharp\HT-7\Task1\obj\Debug\net8.0\ref\Task1.dll
